@@ -2,7 +2,7 @@
 
 <h3>👋 Greetings! I'm <span style="color:#2ecc71">ZoFirsT / 9_Script</span></h3>
 
-🌍 From <b>[Your Location]</b> | 🔍 Full-Stack Developer | 🌌 Exploring New Dimensions in Web Development
+🌍 From <b>[ Bangkok, Thailand ]</b> | 🔍 Full-Stack Developer | 🌌 Exploring New Dimensions in Web Development
 
 <br>
 
@@ -41,13 +41,10 @@
 
 <h3 align="center">🔗 Let's Connect</h3>
 <div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/tha1slkc_7" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:thanatcha103@icloud.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
   </a>
 </div>

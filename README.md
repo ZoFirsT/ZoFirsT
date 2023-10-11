@@ -15,8 +15,7 @@
 
 <br />
 
-## 📈 **Stats**
-
+## 📈 **GitHub Stats**
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoFirsT&show_icons=true&theme=radical&hide_rank=false&hide_border=true&count_private=true&include_all_commits=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoFirsT&theme=radical&layout=compact&hide_border=true">
 
@@ -27,12 +26,23 @@
 
 <br />
 
-## 📮 **Contact**
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## 📚 **Currently Learning**
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white">
+
+<br />
+
+## 🌱 **Projects I'm Proud Of**
+<a href="https://github.com/ZoFirsT/your-best-repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=your-best-repo1&theme=radical" alt="Your Best Repo1">
+</a>
+<a href="https://github.com/ZoFirsT/your-best-repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=your-best-repo2&theme=radical" alt="Your Best Repo2">
+</a>
+
+<br />
+
+<h3>❤️ Thank you for visiting my profile!</h3>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ZoFirsT.ZoFirsT" alt="Visitors Badge">
 
 </div>

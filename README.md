@@ -8,10 +8,37 @@
 <br />
 
 ## 🚀 **Skills**
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
 <img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-<img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+<!-- React -->
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+
+<!-- Java -->
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+
+<!-- Docker -->
 <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+
+<!-- HTML -->
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+
+<!-- SQL -->
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=oracle&logoColor=white&style=for-the-badge" alt="SQL">
+
+<!-- C Programming -->
+<img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="C">
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+
+<!-- PHP -->
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+
 
 <br />
 

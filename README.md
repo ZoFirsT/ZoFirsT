@@ -34,7 +34,7 @@
 
 ## 🌱 **Projects I'm Proud Of**
 <a href="https://github.com/ZoFirsT/your-best-repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=your-best-repo1&theme=radical" alt="Your Best Repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=KrpcThailand404BSw&theme=radical" alt="Your Best Repo1">
 </a>
 <a href="https://github.com/ZoFirsT/your-best-repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=your-best-repo2&theme=radical" alt="Your Best Repo2">

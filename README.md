@@ -1,56 +1,38 @@
 <div align="center">
 
-<h3>👋 Greetings! I'm <span style="color:#2ecc71">ZoFirsT / 9_Script</span></h3>
+<h1>👨‍💻 ZoFirsT / 9_Script</h1>
+<img src="https://raw.githubusercontent.com/ZoFirsT/ZoFirsT/main/assets/wave.gif" width="30px">
 
-🌍 From <b>[ Bangkok, Thailand ]</b> | 🔍 Full-Stack Developer | 🌌 Exploring New Dimensions in Web Development
+🌍 **Location:** [Your Location] • 🌱 **I’m currently learning:** Everything • 📫 **How to reach me:** [YOUR_EMAIL]
 
-<br>
+<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZoFirsT&count_private=true&hide=stars&show_icons=true&theme=radical&line_height=32&title_color=F85D7F&icon_color=F8D866" alt="ZoFirsT's GitHub Stats">
-<br><br>
+## 🚀 **Skills**
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
+<img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
 
-</div>
+<br />
 
-<h3 align="center">🛠 Tech Stack</h3>
+## 📈 **Stats**
 
-<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoFirsT&show_icons=true&theme=radical&hide_rank=false&hide_border=true&count_private=true&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoFirsT&theme=radical&layout=compact&hide_border=true">
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+<br />
 
-</div>
+## 🎯 **Streaks**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoFirsT&theme=radical&hide_border=true">
 
----
+<br />
 
-<div align="center">
-
-<h3>📈 Code Stats</h3>
-
-<!-- You can use https://github.com/anmol098/waka-readme-stats for Wakatime integration -->
-<!-- But for this example, I'm using https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoFirsT&hide=html,css&langs_count=7&layout=compact&theme=radical" alt="ZoFirsT's most used languages">
-</a>
-
-</div>
-
----
-
-<h3 align="center">🔗 Let's Connect</h3>
-<div align="center">
-  <a href="https://twitter.com/tha1slkc_7" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="mailto:thanatcha103@icloud.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-
-⭐️ Template adapted from [templates](https://github.com/someone/some-repo)
+## 📮 **Contact**
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>

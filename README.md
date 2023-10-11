@@ -1,57 +1,59 @@
-<h1 align="center">👨‍💻 ZoFirsT / 9_Script</h1>
-
 <div align="center">
-  🌍 <b>[Your Location]</b> | 🚀 <i>Passionate about evolving as a Full-stack Developer</i>
-</div>
+
+<h3>👋 Greetings! I'm <span style="color:#2ecc71">ZoFirsT / 9_Script</span></h3>
+
+🌍 From <b>[Your Location]</b> | 🔍 Full-Stack Developer | 🌌 Exploring New Dimensions in Web Development
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ZoFirsT">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZoFirsT&count_private=true&hide=stars&show_icons=true&theme=radical&line_height=32&title_color=F85D7F&icon_color=F8D866" alt="ZoFirsT's GitHub Stats">
+<br><br>
+
+</div>
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>📈 Code Stats</h3>
+
+<!-- You can use https://github.com/anmol098/waka-readme-stats for Wakatime integration -->
+<!-- But for this example, I'm using https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoFirsT&hide=html,css&langs_count=7&layout=compact&theme=radical" alt="ZoFirsT's most used languages">
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🔗 Let's Connect</h3>
+<div align="center">
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
   </a>
-</p>
+</div>
 
----
+<div align="center">
 
-<h3 align="center">⚙️ Tech Stack</h3>
+⭐️ Template adapted from [templates](https://github.com/someone/some-repo)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat-square" alt="Node.js">
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white&style=flat-square" alt="Docker">
-  <!-- Add other technologies as needed -->
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoFirsT&show_icons=true&theme=radical&hide_rank=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoFirsT&theme=radical&layout=compact" />
-</p>
-
----
-
-<h3 align="center">🔥 Streaks</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoFirsT&theme=radical" alt="ZoFirsT's Streaks">
-</p>
-
----
-
-<h3 align="center">🤝 Let's Connect!</h3>
-
-<p align="center">
-  <i>Always looking to collaborate or just chat!</i><br>
-  Send me an email 📧: <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
-</p>
+</div>

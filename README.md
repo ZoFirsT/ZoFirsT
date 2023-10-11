@@ -32,9 +32,9 @@
 
 <br />
 
-## 🌟 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZoFirsT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br/>
 

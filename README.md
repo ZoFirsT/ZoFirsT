@@ -32,6 +32,12 @@
 
 <br />
 
+## 🌟 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
 ## 🌱 **Projects I'm Proud Of**
 <a href="https://github.com/ZoFirsT/your-best-repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZoFirsT&repo=KrpcThailand404BSw&theme=radical" alt="KrpcThailand404BSw">

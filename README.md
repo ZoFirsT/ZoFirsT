@@ -3,7 +3,7 @@
 <h1>👨‍💻 ZoFirsT / 9_Script</h1>
 <img src="https://raw.githubusercontent.com/ZoFirsT/ZoFirsT/main/assets/wave.gif" width="30px">
 
-🌍 **Location:** [Your Location] • 🌱 **I’m currently learning:** Everything • 📫 **How to reach me:** [YOUR_EMAIL]
+🌍 **Location:** [Bangkok, Thailand] • 🌱 **I’m currently learning:** Everything • 📫 **How to reach me:** [thanatcha103@icloud.com]
 
 <br />
 

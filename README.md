@@ -53,12 +53,6 @@
 
 <br />
 
-## 📚 **Currently Learning**
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white">
-
-<br />
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZoFirsT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

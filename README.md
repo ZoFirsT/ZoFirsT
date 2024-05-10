@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>👨‍💻 ZoFirsT / 9_Script</h1>
+<h1>👨‍💻 ZoFirsT / Thanatcha</h1>
 <img src="https://raw.githubusercontent.com/ZoFirsT/ZoFirsT/main/assets/wave.gif" width="30px">
 
-🌍 **Location:** [Bangkok, Thailand] • 🌱 **I’m currently learning:** Everything • 📫 **How to reach me:** [thanatcha103@icloud.com]
+🌍 **Location:** [Bangkok, Thailand] • 🌱 **I’m currently learning:** Everything • 📫 **How to reach me:** [ thanatcha@stratusone.co.th ]
 
 <br />
 

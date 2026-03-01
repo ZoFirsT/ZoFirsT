@@ -12,7 +12,7 @@
 As the driving force behind multiple technology and research initiatives, I oversee the architectural direction and strategic growth across several organizations:
 
 * **STRATUSONE Co., Ltd.** — CEO & Founder
-* **NightSeat Innovation** — Founder
+* **NightSeat Innovation** — Co-Founder
 * **Override** — Founder
 * **Syntheix Enterprise** — Founder
 

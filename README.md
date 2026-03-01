@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Thanatcha Saleekongchai (ZoFirsT)</h1>
+  <h1>Thanatcha Saleekongchai (FirsT)</h1>
   <h3>Architecting Scalable Intelligence & Next-Generation Digital Infrastructure</h3>
 </div>
 

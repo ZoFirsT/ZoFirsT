@@ -13,7 +13,6 @@ As the driving force behind multiple technology and research initiatives, I over
 
 * **STRATUSONE Co., Ltd.** — CEO & Founder
 * **NightSeat Innovation** — Co-Founder
-* **Override** — Founder
 * **Syntheix Enterprise** — Founder
 
 ## Engineering Doctrine & Vision
